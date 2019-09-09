@@ -36,7 +36,7 @@ public class ColegioPerros {
     public static void main(String[] args) { 
         double opcionMenuPrincipal = 0;  //menu principal
         Scanner digitadoPorTeclado = new Scanner(System.in);
-        Perros listaPerro[] = new Perros[50]; 
+        Perros listaPerro[] = new Perros[60]; 
         inicializarPerros(listaPerro); 
 
         
